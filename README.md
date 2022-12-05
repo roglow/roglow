@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roglow
-- 👀 I’m interested in quantum computing, cryptography, game theory and time travel.
+- 👀 I’m interested in quantum computing, cryptography, blockchain, game theory and time travel.
 - 🌱 I’m currently learning golang.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 You can reach me via DM on twitter
